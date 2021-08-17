@@ -1,4 +1,11 @@
+div {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-color: grey;
+}
 button {
+  margin-top: 25px;
   background-color: red;
   color: whitesmoke;
 }
